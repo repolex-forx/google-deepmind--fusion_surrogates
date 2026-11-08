@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "fusion_surrogates",
+  "versions": [
+    {
+      "commit": "f92669684436699b5350d997bca553624505c2d6",
+      "tag": "v0.4.8",
+      "parsed_at": "2026-11-08T09:12:38.904662+00:00"
+    }
+  ]
+}
