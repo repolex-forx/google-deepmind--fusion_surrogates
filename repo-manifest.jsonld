@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/fusion_surrogates/commit/f92669684436699b5350d997bca553624505c2d6",
       "git:hexsha": "f92669684436699b5350d997bca553624505c2d6",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.8"
     },
     {
